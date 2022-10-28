@@ -1,6 +1,6 @@
 <style>
 #stats {
-  width: 100vw;
+  width: 100%;
   text-align:center;
  }
 </style>
