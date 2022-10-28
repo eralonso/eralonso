@@ -6,7 +6,7 @@
   </div>
   </br>
   <div>
-    <h2>Libft</h2>
+    <h2><a href="https://github.com/eralonso/Libft">Libft</a></h2>
   </div>
   <div>
     <a href="https://github.com/JaeSeoKim/badge42">
