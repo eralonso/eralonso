@@ -1,11 +1,3 @@
-
-<head>
-	<style>
-		#libft:hover {
-			text-decoration: none;
-		}
-	</style>
-</head>
 <body>
 	<div>
 		
