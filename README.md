@@ -16,7 +16,7 @@
     </div>
     </br>
     <div>
-      <h2><a if="ft_printf" href="">FT_Printf</a></h2>
+      <h2><a if="ft_printf" href="https://github.com/eralonso/FT_Printf">FT_Printf</a></h2>
     </div>
     <div>
       <a href="https://github.com/JaeSeoKim/badge42">
