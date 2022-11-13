@@ -7,7 +7,7 @@
     </div>	
     </br>
     <div>
-      <h2><a id="libft" href="https://github.com/eralonso/Libft">Libft</a></h2>
+      <h2><a id="libft" href="https://github.com/eralonso/Libft" target="blank">Libft</a></h2>
     </div>
     <div>
       <a href="https://github.com/JaeSeoKim/badge42">
@@ -16,7 +16,7 @@
     </div>
     </br>
     <div>
-      <h2><a if="ft_printf" href="https://github.com/eralonso/FT_Printf">FT_Printf</a></h2>
+      <h2><a if="ft_printf" href="https://github.com/eralonso/FT_Printf" target="blank">FT_Printf</a></h2>
     </div>
     <div>
       <a href="https://github.com/JaeSeoKim/badge42">
@@ -25,7 +25,7 @@
     </div>
     </br>
     <div>
-      <h2><a if="get_next_line" href="https://github.com/eralonso/Get_Next_Line">Get_Next_Line</a></h2>
+      <h2><a if="get_next_line" href="https://github.com/eralonso/Get_Next_Line" target="blank">Get_Next_Line</a></h2>
     </div>
     <div>
       <a href="https://github.com/JaeSeoKim/badge42">
